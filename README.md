@@ -11,6 +11,10 @@
       No curso era para fazer com programação estruturada mas resulvi me desafiar e fazer com programação orientada a objetos. É sobre uma lista de exercicios que vai do 1 ao 11. Tem errinhos         para arrumar e futuramente estarei atualizando.
     </p>
   </li>
-  <li>kdkdkkdkd</li>
-  <li>çaçaçaçaç</li>
+  <li>
+       Arquivo com o nome:<h3>POO_Curso_Csharp_Udemy</h3>
+        <p>
+          Agora estou estudando mais sobre a Programação orientada a objetos de fato. No momento só tem um arquivo básico para entender como funciona os termos de classe, metodos e atributos mas irei atualizando para mostrar a minha evolução na area da tecnologia que tanto estou amando.
+      </p>
+  </li>
 </ul>
