@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\bin\Debug\net8.0\Curso_Udemy_Csharp_Essencial.exe
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\bin\Debug\net8.0\Curso_Udemy_Csharp_Essencial.deps.json
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\bin\Debug\net8.0\Curso_Udemy_Csharp_Essencial.runtimeconfig.json
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\bin\Debug\net8.0\Curso_Udemy_Csharp_Essencial.dll
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\bin\Debug\net8.0\Curso_Udemy_Csharp_Essencial.pdb
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.dll
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\refint\Curso_Udemy_Csharp_Essencial.dll
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.pdb
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\Curso_Udemy_Csharp_Essencial.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Desktop\C#\Curso_Udemy_Csharp_Essencial\obj\Debug\net8.0\ref\Curso_Udemy_Csharp_Essencial.dll
