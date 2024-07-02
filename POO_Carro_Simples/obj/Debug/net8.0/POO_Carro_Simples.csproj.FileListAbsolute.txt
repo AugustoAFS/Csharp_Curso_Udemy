@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\bin\Debug\net8.0\POO_Carro_Simples.exe
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\bin\Debug\net8.0\POO_Carro_Simples.deps.json
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\bin\Debug\net8.0\POO_Carro_Simples.runtimeconfig.json
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\bin\Debug\net8.0\POO_Carro_Simples.dll
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\bin\Debug\net8.0\POO_Carro_Simples.pdb
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.dll
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\refint\POO_Carro_Simples.dll
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.pdb
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\POO_Carro_Simples.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Desktop\C#\POO_Carro_Simples\obj\Debug\net8.0\ref\POO_Carro_Simples.dll
