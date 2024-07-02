@@ -6,7 +6,10 @@
 <br>
 <ul>
   <li>
-    <h3>Arquivo com o nome:Curso_Udemy_Csharp_Essencial</h3>
+    Arquivo com o nome:<h3>Curso_Udemy_Csharp_Essencial</h3>
+    <p>
+      No curso era para fazer com programação estruturada mas resulvi me desafiar e fazer com programação orientada a objetos. É sobre uma lista de exercicios que vai do 1 ao 11. Tem errinhos         para arrumar e futuramente estarei atualizando.
+    </p>
   </li>
   <li>kdkdkkdkd</li>
   <li>çaçaçaçaç</li>
