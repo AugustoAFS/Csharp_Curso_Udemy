@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\bin\Debug\net8.0\POO_Curso_Csharp_Udemy.exe
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\bin\Debug\net8.0\POO_Curso_Csharp_Udemy.deps.json
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\bin\Debug\net8.0\POO_Curso_Csharp_Udemy.runtimeconfig.json
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\bin\Debug\net8.0\POO_Curso_Csharp_Udemy.dll
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\bin\Debug\net8.0\POO_Curso_Csharp_Udemy.pdb
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.dll
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\refint\POO_Curso_Csharp_Udemy.dll
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.pdb
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\POO_Curso_Csharp_Udemy.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Desktop\C#\POO_Curso_Csharp_Udemy\obj\Debug\net8.0\ref\POO_Curso_Csharp_Udemy.dll
